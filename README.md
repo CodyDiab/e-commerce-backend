@@ -13,7 +13,7 @@
   * [Questions](#Questions)
   <img src="./assets/scrnsht1.png"></img> <img src="./assets/scrnsht2.png"></img> 
   ## Installation
-  Before running, all dependencies must be install through npm 
+  Before running, all dependencies must be installed through npm 
   
        
        npm install
@@ -22,7 +22,7 @@
     
   ## Usage
   includes end points for products, categories and tags and can be applied to any e commerce front end.
-  undefined
+  
   ## License
   No License
   ## Contributing
