@@ -1,8 +1,9 @@
 
   # E-Commerce Backend
   
-  e-commerce backend is a generic template back end for e commerce functionality. It was built in Node using Sequelize.
-  <img src="./assets/scrnsht1.png"></img> <img src="./assets/scrnsht2.png"></img> 
+  e-commerce backend is a generic template back end for e commerce functionality. 
+  It was built in Node using Sequelize.
+  
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,7 +11,7 @@
   * [Contributing](#Contributing)
   * [Tests](#Tests)
   * [Questions](#Questions)
-  
+  <img src="./assets/scrnsht1.png"></img> <img src="./assets/scrnsht2.png"></img> 
   ## Installation
   Before running, all dependencies must be install through npm 
   
